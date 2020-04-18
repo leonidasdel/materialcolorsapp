@@ -1,3 +1,19 @@
+# React Colors Project
+
+- A clone of websites like [Flat UI Colors](https://flatuicolors.com/) and [Material UI Colors](http://materialuicolors.co/?utm_source=launchers).
+- One of the projects of Colt Steele's React Bootcamp on udemy.
+
+![image](https://i.imgur.com/9x1F9At.png)
+![image](https://i.imgur.com/GM0etHA.png)
+
+![image](https://i.imgur.com/QB2zRzf.png)
+![image](https://i.imgur.com/aFowgNg.png)
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
