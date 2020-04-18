@@ -17,7 +17,10 @@ export default class Palette extends Component {
         const colorBoxes= this.props.palette.colors[this.state.level].map(color => (<ColorBox background={color.hex} name={color.name} />))
         return (
             <div className="Palette">
-            <Slider defaultValue={this.state.level} min={100} max={900} step={100}  onAfterChange={this.changeLevel}/>
+            <div className="slider">
+                <Slider defaultValue={this.state.level} min={100} max={900} step={100}  onAfterChange={this.changeLevel}/>
+            </div>
+            
             {/* navbar */}
                 <div className="Palette-colors">
                     {colorBoxes}
