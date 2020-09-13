@@ -25,7 +25,7 @@ export default class App extends Component {
     </Switch>
       // {/* <div>
       //   <Palette palette={generatePaeltte(seedColors[1])} />
-      // </div> */}
+      // </div> */}  
     )
   }
 }
